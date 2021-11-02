@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Formulario Omega</title>
+<meta charset="UTF-8">
+<style>section{webkit-column-count:2}</style>
+</head>
+<body>
+
+<body style="background-color:yellow"> 
+
+<center><h2><font face="Times New Roman"><b>Hoja de vida</b></font></h2></center>
+<br>
+<center><img src="78.jfif" width="180"></center>
+
+<center><h3><font face="Times New Roman"><b>Datos Personal</b></font></h3></center>
+
+
+<center><h4><face="Times New Roman">Escribir Nombre completo: Andrés Vlieg</font><h4></center>
+<center><h4><face="Times New Roman">Fecha de nacimiento: 1 de Agosto 2002</font><h4></center>
+<center><h4><face="Times New Roman">Escriba email:sempaiandres@gmail.com </font><h4></center>
+<center><h4><face="Times New Roman">Sexo:Masculino</font><h4></center>
+<center><h4><face="Times New Roman">Estado Civil: Soltero</font><h4></center>
+<center><h4><face="Times New Roman">Direción:Clayton Mac Manus 1052C,Ancón,Panamá</font><h4></center>
+<center><h4><face="Times New Roman">Numero telefonico: +507 6675-1722</font><h4></center>
+<br>
+
+<center><h3><font face="Times New Roman"><b>Perfil Personal</b></font></h3></center>
+<br>
+<center><p>Soy un joven estudiante de la Universidad de Panamá, y estoy cursando el curso de Química para poder conseguir mi Licenciatura en Química.</p><p>Soy una persona que le gusta las artes marciales, la música, poesia entre otras cosas.</p><p>Me considero una persona bastante activa y muy carismatica, me gustan las acitvidades al aire libre y socializar.</p></center>
+<br><br>
+
+<center><h3><font face="Times New Roman"><b>Formación Académica</b></font></h3></center>
+<br>
+
+<center><h4><face="Times New Roman">Escuela cursada: Saint Mary School</font><h4></center>
+<center><h4><face="Times New Roman">Año de graudacion:2020</font><h4></center
+<br><br>
+
+</body>
+</html>
